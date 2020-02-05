@@ -1,2 +1,2 @@
 # Learning-Machine-Learning-with-Python
-I want to share others my process of learning Machine Learning with Python step by step
+In this repository I want to share others my process of learning Machine Learning with Python step by step ...
