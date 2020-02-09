@@ -1,3 +1,3 @@
 # Learning-Machine-Learning-in-Python
-In this repository I want to share my process of learning Machine-Learning in Python step by step.
+In this repository I want to share my experience of learning Machine-Learning in Python step by step.
 It will be completed in next days ...
